@@ -1,0 +1,30 @@
+--- [2025-06-14 19:41:04] INCOMING SSP REQUEST ---
+Request Body: {"id":"f9572ba60a490110047f51e6a8cffa37-145855-290131","imp":[{"id":"290131","banner":{"w":300,"h":250,"format":[{"w":300,"h":250}]},"tagid":"145855"}],"site":{"id":"42374","domain":"zone-debug.site","cat":["IAB25-3"],"page":"https:\/\/zone-debug.site?page","ref":"https:\/\/zone-debug.site?referrer","publisher":{"id":"65372"}},"device":{"dnt":0,"ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36","ip":"110.137.37.208","geo":{"country":"IDN","region":"LA","city":"Bandar Lampung"},"language":"en","devicetype":2,"lmt":0},"user":{"id":"5fcd28f158c803a507c3fe93bef6bdd7106940c7"},"at":1,"tmax":500,"cur":["USD"]}
+--- [2025-06-14 19:49:29] INCOMING SSP REQUEST FOR EP: 34b7b0f58fef263ef307cd436a88346e ---
+Request Body: {"id":"7cc62d0a87633807b0d3fc9640c3109b-145855-290131","imp":[{"id":"290131","banner":{"w":300,"h":250,"format":[{"w":300,"h":250}]},"tagid":"145855"}],"site":{"id":"42374","domain":"zone-debug.site","cat":["IAB25-3"],"page":"https:\/\/zone-debug.site?page","ref":"https:\/\/zone-debug.site?referrer","publisher":{"id":"65372"}},"device":{"dnt":0,"ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36","ip":"110.137.37.208","geo":{"country":"IDN","region":"LA","city":"Bandar Lampung"},"language":"en","devicetype":2,"lmt":0},"user":{"id":"5fcd28f158c803a507c3fe93bef6bdd7106940c7"},"at":1,"tmax":500,"cur":["USD"]}
+Endpoint rules found: {"ad_format":"banner","category_id":2}
+Request parsed: type=banner, size=300x250
+Found matching demand campaign: ID 2
+RESPONSE: 200 OK with Bid.
+--- [2025-06-14 19:50:09] INCOMING SSP REQUEST FOR EP: 34b7b0f58fef263ef307cd436a88346e ---
+Request Body: {"id":"cf2a2f9209e051a2d79ae470e6bd4884-145855-290131","imp":[{"id":"290131","banner":{"w":300,"h":250,"format":[{"w":300,"h":250}]},"tagid":"145855"}],"site":{"id":"42374","domain":"zone-debug.site","cat":["IAB25-3"],"page":"https:\/\/zone-debug.site?page","ref":"https:\/\/zone-debug.site?referrer","publisher":{"id":"65372"}},"device":{"dnt":0,"ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36","ip":"110.137.37.208","geo":{"country":"IDN","region":"LA","city":"Bandar Lampung"},"language":"en","devicetype":2,"lmt":0},"user":{"id":"5fcd28f158c803a507c3fe93bef6bdd7106940c7"},"at":1,"tmax":500,"cur":["USD"]}
+Endpoint rules found: {"ad_format":"banner","category_id":2}
+Request parsed: type=banner, size=300x250
+Found matching demand campaign: ID 2
+RESPONSE: 200 OK with Bid.
+--- [2025-06-15 02:50:48] INCOMING SSP REQUEST FOR EP: 34b7b0f58fef263ef307cd436a88346e ---
+ERROR: Method was GET, not POST.
+--- [2025-06-14 19:50:59] INCOMING SSP REQUEST FOR EP: 34b7b0f58fef263ef307cd436a88346e ---
+ERROR: Method was GET, not POST.
+--- [2025-06-14 19:51:05] INCOMING SSP REQUEST FOR EP: 34b7b0f58fef263ef307cd436a88346e ---
+ERROR: Method was GET, not POST.
+--- [2025-06-14 19:52:18] INCOMING SSP REQUEST FOR EP: 34b7b0f58fef263ef307cd436a88346e ---
+ERROR: Method was GET, not POST.
+--- [2025-06-14 19:52:20] INCOMING SSP REQUEST FOR EP: 34b7b0f58fef263ef307cd436a88346e ---
+ERROR: Method was GET, not POST.
+--- [2025-06-14 19:52:29] INCOMING SSP REQUEST FOR EP: 34b7b0f58fef263ef307cd436a88346e ---
+Request Body: {"id":"000f443c7bfbc431484cd9b74f05e9b1-145855-290131","imp":[{"id":"290131","banner":{"w":300,"h":250,"format":[{"w":300,"h":250}]},"tagid":"145855"}],"site":{"id":"42374","domain":"zone-debug.site","cat":["IAB25-3"],"page":"https:\/\/zone-debug.site?page","ref":"https:\/\/zone-debug.site?referrer","publisher":{"id":"65372"}},"device":{"dnt":0,"ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36","ip":"110.137.37.208","geo":{"country":"IDN","region":"LA","city":"Bandar Lampung"},"language":"en","devicetype":2,"lmt":0},"user":{"id":"5fcd28f158c803a507c3fe93bef6bdd7106940c7"},"at":1,"tmax":500,"cur":["USD"]}
+Endpoint rules found: {"ad_format":"banner","category_id":2}
+Request parsed: type=banner, size=300x250
+Found matching demand campaign: ID 2
+RESPONSE: 200 OK with Bid.
